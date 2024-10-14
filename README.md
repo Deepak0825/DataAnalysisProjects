@@ -4,17 +4,6 @@
 
 This repository contains a collection of data analysis projects. Each project focuses on analyzing different datasets to derive insights, visualize data, and explore patterns and trends using various data analysis techniques and tools.
 
-## Project List
-
-1. **Bike Store Sales Analysis**
-   - Analyzing sales data from bike stores to understand sales performance, customer demographics, and product preferences.
-
-2. **Impact of Recession on Automobile Sales**
-   - Analyzing historical data to understand how sales were affected during recession periods. The analysis includes various visualizations and dashboards to provide insights to company directors.
-
-3. **Immigration to Canada Analysis**
-   - Analyzing immigration data to Canada to understand trends, patterns, and the demographic impact over the years. The project includes visualizations and statistical analysis to provide insights into immigration trends.
-
 ## Common Features
 
 - **Data Cleaning**: Handling missing values, removing duplicates, and correcting data types.
